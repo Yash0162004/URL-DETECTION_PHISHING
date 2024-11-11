@@ -21,7 +21,7 @@ with col2:
 with col3:
     st.write(' ')
 
-st.markdown("<h1 style='text-align: center; color: #14559E'>URL Genie</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #14559E'>Web Wizard</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: #494848;'>Malicious URL Detection Model made using Python</h3>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: #494848;'>This program utilizes a Multilayer Perceptron Neural Network model with optimized hyper-parameters using genetic algorithms to perform malicous URL detection</p>", unsafe_allow_html=True)
 
